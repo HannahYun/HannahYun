@@ -1,6 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=200&section=header&text=Hi,%20I'm%20Hannah%20Yun.&fontSize=50&fontAlignY=40)
 
-### Hi there 👋
+### 👋 Introduction
+I am an undergraduate at Sookmyung Women's University.
+
+### 🌱 I’m learning & interested in ...
+I'm interested in Marchine Learning and Deep Learning.
+
+
 
 <!--
 **HannahYun/HannahYun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +23,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=HannahYun)](https://solved.ac/HannahYun)
+### ✏️ Algorithm
+- BOJ (Baekjoon Online Judge)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=HannahYun)](https://solved.ac/profile/yunhh20)
