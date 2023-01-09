@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Hannah%20Yun.&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Hannah%20Yun.&fontSize=60&fontAlignY=20)
 
 ### Hi there 👋
 
