@@ -36,6 +36,8 @@ I use <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&lo
 ##### Cooperation
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
   
+### 📞 Contact me 📞  
+<a href="mailto:hansiyun0629@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hansiyun0629@gmail.com"/></a> <a href="mailto:mihw20@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:mihw20@naver.com"/></a>
   
 </div>
   
