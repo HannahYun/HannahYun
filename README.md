@@ -8,6 +8,7 @@ My major is IT engineering, and double major is business administration.
 ### 🌱 I’m learning & interested in ... 🌱  
 I'm interested in Marchine Learning and Deep Learning, Data Analysis.  
 I use <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> etc.  
+Competitions are here! [**Competitions**](https://github.com/HannahYun/Competitions)
 
 ### 💡 Languages 💡  
 ##### Main  
