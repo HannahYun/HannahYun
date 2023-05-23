@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=200&section=header&text=Hi,%20I'm%20Hannah%20Yun.&fontSize=50&fontAlignY=40)
 <div align=center>
   
-### 👋 Introduction 👋  
+### 👋 Introduction 👋
 I am an undergraduate at Sookmyung Women's University.  
 My major is IT engineering(intensive major), and double major is business administration.
   
-I am currently studying at 'NAVER boostcamp AI Tech 5th - RecSys Track'.
+I am currently studying at **'NAVER boostcamp AI Tech 5th - RecSys Track'**.
 
 ### 🌱 I’m learning & interested in ... 🌱  
 I'm interested in Marchine Learning and Deep Learning, Data Analysis.  
