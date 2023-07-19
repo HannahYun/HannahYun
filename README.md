@@ -1,6 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=200&section=header&text=Hi,%20I'm%20Hannah%20Yun.&fontSize=50&fontAlignY=40)
-<!-- <div align=center> -->
-  
 ## 👋 Introduction
 - I am an undergraduate at Sookmyung Women's University.  
 - My major is IT engineering(intensive major), and double major is business administration.
@@ -12,6 +10,7 @@
 - Dacon Competiton - Gold   
 
 <img src="https://github.com/HannahYun/HannahYun/assets/86915357/b68a616e-fd56-4aa5-8544-a5e44fd2a77a" width="350" height="130" align="left"></img>
+<br/>
 <br/>
 <br/>
 <br/>
