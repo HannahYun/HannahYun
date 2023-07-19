@@ -15,7 +15,7 @@
 <br/>
 <br/>
 <br/>
-
+<br/>
 ## 💡 Skills
 - Main Language is <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>.
 - Pytorch, Tensorflow, OpenCV, Scikit-Learn, R, Google Data Studio, Figma etc.
