@@ -2,8 +2,8 @@
 ## 👋 Introduction
 - I am an undergraduate at Sookmyung Women's University.  
 - My major is IT engineering(intensive major), and double major is business administration.
-- I'm interested in Marchine Learning and Deep Learning, Data Analysis.  
-- I am currently studying at **'NAVER boostcamp AI Tech 5th - RecSys Track'**.
+- I complted the **'NAVER boostcamp AI Tech 5th - RecSys Track'**.
+- I'm interested in Marchine Learning, Deep Learning, and Data Engineering.  
 
 ## 🏆 Competitions 
 ### [**History of Competitions**](https://github.com/HannahYun/Competitions)  ← Click here!
