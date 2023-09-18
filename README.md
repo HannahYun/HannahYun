@@ -2,7 +2,7 @@
 ## 👋 Introduction
 - I am an undergraduate at Sookmyung Women's University.  
 - My major is IT engineering(intensive major), and double major is business administration.
-- I complted the **'NAVER boostcamp AI Tech 5th - RecSys Track'**.
+- I completed the **'NAVER boostcamp AI Tech 5th - RecSys Track'**.
 - I'm interested in Marchine Learning, Deep Learning, and Data Engineering.  
 
 ## 🏆 Competitions 
